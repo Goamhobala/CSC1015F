@@ -23,5 +23,4 @@
 
 
 # print(min_number(adding_numbers()))
-
-print(1//2//3)
+print(len(0))
