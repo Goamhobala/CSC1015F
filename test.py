@@ -23,4 +23,7 @@
 
 
 # print(min_number(adding_numbers()))
-print(len(0))
+my_dict = {"jing": 30}
+
+print("jing" in my_dict)
+print("jg" in my_dict)

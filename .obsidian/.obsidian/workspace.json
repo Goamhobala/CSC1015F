@@ -1,39 +1,40 @@
 {
   "main": {
-    "id": "358e04fc03c93a7c",
+    "id": "43c19d183f2cfa61",
     "type": "split",
     "children": [
       {
-        "id": "d21e0aef926c85b7",
+        "id": "61118a40684daa15",
         "type": "tabs",
         "children": [
           {
-            "id": "15710f1cb44fccaa",
+            "id": "96d1a56ad1e13d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iteration/Iteration.md",
+                "file": "2023-03-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f747d2be073871cb",
+    "id": "a1769dc67ee9bf7a",
     "type": "split",
     "children": [
       {
-        "id": "43574dafa55637fd",
+        "id": "378b88ff45c0bdbf",
         "type": "tabs",
         "children": [
           {
-            "id": "64836e7c102b7351",
+            "id": "6959f5e97fc7ad7b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +44,7 @@
             }
           },
           {
-            "id": "781871f8ff878b6f",
+            "id": "55b5d2989aeba40e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +59,7 @@
             }
           },
           {
-            "id": "ca1ff506868e64af",
+            "id": "8b49e021f4c2ce27",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +73,20 @@
     "width": 300
   },
   "right": {
-    "id": "a9130f439172de5e",
+    "id": "3af83dd85a0e7196",
     "type": "split",
     "children": [
       {
-        "id": "00f197014a109147",
+        "id": "8157869df62871ff",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5a10677f63ad63",
+            "id": "0264b41e156a123c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iteration/Iteration.md",
+                "file": "2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "a96124dce697685e",
+            "id": "3da8c1f832c1af4b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iteration/Iteration.md",
+                "file": "2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "25511a84ee8259b8",
+            "id": "f24628569e509d13",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +121,21 @@
             }
           },
           {
-            "id": "ad6e5337067ae8fb",
+            "id": "06e15880d6f21e2a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iteration/Iteration.md"
+                "file": "2023-03-10.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15710f1cb44fccaa",
+  "active": "f24628569e509d13",
   "lastOpenFiles": [
-    "Iteration/factorial.py.b014f834a7c5847d5a64648a1b889c00.tmp",
-    "Selection/Selection.md",
-    "Iteration/Iteration.md",
-    "Pasted image 20230312213942.png",
-    "Iteration/factorial.py",
-    "Pasted image 20230312211640.png",
-    "Iteration",
-    "Selection/login.py"
+    "Untitled.canvas",
+    "2023-03-10.md"
   ]
 }
